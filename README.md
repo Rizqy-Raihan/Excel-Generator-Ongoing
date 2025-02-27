@@ -1,7 +1,3 @@
-Berikut adalah deskripsi repository GitHub berdasarkan file yang Anda unggah:  
-
----
-
 # **Excel Generator – Automasi Pembuatan dan Manipulasi File Excel**  
 
 ## **Deskripsi**  
@@ -35,12 +31,4 @@ Daftar pustaka yang diperlukan (tersimpan dalam `requirements.txt`):
 - `openpyxl`  
 - `csv`  
 
-## **Kontribusi**  
-Kami membuka peluang kontribusi! Jika Anda memiliki ide atau ingin meningkatkan fitur proyek ini, silakan buat **Pull Request** atau ajukan masalah di **Issues**.  
 
-## **Lisensi**  
-Proyek ini tersedia di bawah lisensi **MIT** (atau sesuai dengan yang tertera di `LICENSE`).  
-
----
-
-Deskripsi ini sudah mencakup informasi dari file **README.md, exel.py, dan requrietments.txt**. Jika ingin menambahkan detail lain, beri tahu saya! 🚀
