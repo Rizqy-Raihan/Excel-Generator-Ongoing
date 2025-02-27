@@ -1,5 +1,40 @@
-# **Excel Generator – Automasi Pembuatan dan Manipulasi File Excel**  
+**ENGLISH VERSION**
+# **Excel Generator – Automate Excel File Creation and Manipulation**  
 
+## **Description**  
+Excel Generator is a **Python-based** project that allows users to quickly and efficiently create and modify **Excel files**. This project offers a variety of features, from simple table creation to applying complex mathematical and arithmetic operations.  
+
+## **Key Features**  
+✅ **Number Detection & Conversion** – Automatically identifies currency symbols and formats numbers accordingly.  
+✅ **Flexible Table Creation** – Customize **headers, rows, and data** to suit your needs.  
+✅ **Custom Styling** – Add **borders, fonts, and page layouts** for a professional look.  
+✅ **Math & Arithmetic Operations** – Perform calculations directly within Excel files.  
+✅ **Interactive Interface** – Guides users through formatting options easily.  
+
+## **Installation**  
+Make sure **Python** is installed on your system, then follow these steps:  
+```sh
+git clone https://github.com/Rizqy-Raihan/Excel-Generator-Ongoing.git
+cd Excel-Generator
+pip install -r requirements.txt
+```
+
+## **Usage**  
+To run **Excel Generator**, use the following command:  
+```sh
+python exel.py
+```
+Follow the on-screen instructions to customize tables and data as needed.  
+
+## **Dependencies**  
+The required libraries (stored in `requirements.txt`):  
+- `re`  
+- `openpyxl`  
+- `csv`  
+
+
+**INDONESIAN VERSION**
+# **Excel Generator – Automasi Pembuatan dan Manipulasi File Excel**  
 ## **Deskripsi**  
 Excel Generator adalah proyek berbasis **Python** yang memungkinkan pengguna membuat dan memodifikasi file **Excel** dengan cepat dan efisien. Proyek ini menawarkan berbagai fitur, mulai dari pembuatan tabel sederhana hingga penerapan operasi matematika dan aritmatika yang kompleks.  
 
@@ -13,7 +48,7 @@ Excel Generator adalah proyek berbasis **Python** yang memungkinkan pengguna mem
 ## **Instalasi**  
 Pastikan **Python** telah terinstal di sistem Anda, lalu ikuti langkah berikut:  
 ```sh
-git clone https://github.com/Rizqy-Raihan/Excel-Generator.git
+git clone https://github.com/Rizqy-Raihan/Excel-Generator-Ongoing.git
 cd Excel-Generator
 pip install -r requirements.txt
 ```
@@ -30,3 +65,5 @@ Daftar pustaka yang diperlukan (tersimpan dalam `requirements.txt`):
 - `re`  
 - `openpyxl`  
 - `csv`  
+
+
